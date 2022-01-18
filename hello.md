@@ -21,7 +21,7 @@ Hello `World`
 Hello World
 ```
 
-```python=
+```python
 def hello():
     print('Hello World')
 ```
